@@ -1,2 +1,3 @@
 bootsector_load.bin
 bootsector_stack.bin
+bootsector-functions-strings/boot_sect_main.bin
