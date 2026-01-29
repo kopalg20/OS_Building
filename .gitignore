@@ -4,3 +4,5 @@ bootsector-functions-strings/boot_sect_main.bin
 bootsector_segmentation.bin
 bootsector_disk/boot_sect_main.bin
 32bit_enter/32bit_main.bin
+kernel_c/function.bin
+kernel_c/function.o
